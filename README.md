@@ -38,8 +38,11 @@ https://github.com/Legend101Zz/socket.io-three.js.git
 #Project Structure
 
 /src: Contains the source code for both the server and the client.
+
 /public: Static assets for the client-side, including HTML, CSS, and client scripts.
+
 /dist: Compiled and bundled code for both server and client.
+
 /shared: Shared code or configuration files between server and client.
 
 npm run dev
